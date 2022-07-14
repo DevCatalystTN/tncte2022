@@ -1,6 +1,6 @@
 # CTE Conference 2022 - Coding in the Classroom
 
-# [Presentation]([https://drive.google.com/file/d/1kG85hc9N6BMEFsheRgr_MQ4XOJQnwg_m/view?usp=sharing](https://docs.google.com/presentation/d/1uEuzgEh7uH5VP1vdeXwna4lF_AuWwwFP/edit?usp=sharing&ouid=115257382631583950124&rtpof=true&sd=true)
+# [Presentation](https://docs.google.com/presentation/d/1uEuzgEh7uH5VP1vdeXwna4lF_AuWwwFP/edit?usp=sharing&ouid=115257382631583950124&rtpof=true&sd=true)
 
 Resources shared during the 2022 CTE Conference "Coding in the Classroom: Preparing Students for the Tech Industry in 2022"
 
