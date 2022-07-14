@@ -1,8 +1,8 @@
-# CTE Conference 2021 - Coding in the Classroom
+# CTE Conference 2022 - Coding in the Classroom
 
 # [Presentation PDF](https://drive.google.com/file/d/1kG85hc9N6BMEFsheRgr_MQ4XOJQnwg_m/view?usp=sharing)
 
-Resources shared during the 2021 CTE Conference "Coding in the Classroom: Preparing Students for the Tech Industry in 2021"
+Resources shared during the 2022 CTE Conference "Coding in the Classroom: Preparing Students for the Tech Industry in 2022"
 
 
 
