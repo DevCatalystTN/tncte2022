@@ -30,7 +30,7 @@ This session will include an in-depth description of popular coding languages an
 - [Udemy](https://www.udemy.com/)
 - [Adafruit](https://learn.adafruit.com/)
 - [Cockroach University](https://university.cockroachlabs.com/courses)
-- YouTubers ([mmTuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw) and [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2)
+- YouTubers ([mmTuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw) and [Caleb Curry](https://www.youtube.com/user/CalebTheVideoMaker2))
 - [Dev Catalyst](https://www.devcatalyst.com/)
 
 ## Coding Practice
@@ -41,7 +41,18 @@ This session will include an in-depth description of popular coding languages an
 - Get involved in the coding community
 - Discord servers
 - Local meetups/hackathons
+  - [HACKMemphis](https://www.facebook.com/HackMemphis)
+  - [CO:hack](https://www.facebook.com/AtTheCO) (Jackson, TN)
+  - [Knoxville City Hackathon](https://knxhx.org/)
+  - [DevPost Virtual Hackathons](https://quickbase.devpost.com/resources)
+  - Follow local tech companies/universities on LinkedIn
+  - [KnoxDevs](https://knoxdevs.com/)
+  - [DevMemphis](https://www.facebook.com/MemphisTechnology)
+  - [Nashville Game Developers](https://nashgame.dev/)
+  - [ChaDev](https://chadev.com/)
+  - [BoroDev](https://www.meetup.com/BoroDev/)
 - Online community
+  - [CodeNewbie](https://www.codenewbie.org/)
 - MAKE YOUR OWN PROJECTS
 
 ## Raspberry Pi Supplies
