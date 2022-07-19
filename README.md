@@ -48,9 +48,9 @@ This session will include an in-depth description of popular coding languages an
   - Follow local tech companies/universities on LinkedIn
   - [KnoxDevs](https://knoxdevs.com/)
   - [DevMemphis](https://www.facebook.com/MemphisTechnology)
-  - [Nashville Game Developers](https://nashgame.dev/)
-  - [ChaDev](https://chadev.com/)
-  - [BoroDev](https://www.meetup.com/BoroDev/)
+  - [Nashville Game Developers](https://nashgame.dev/) - have a Discord
+  - [ChaDev](https://chadev.com/) - have a Slack
+  - [BoroDev](https://www.meetup.com/BoroDev/) - have a Slack
 - Online community
   - [CodeNewbie](https://www.codenewbie.org/)
 - MAKE YOUR OWN PROJECTS
